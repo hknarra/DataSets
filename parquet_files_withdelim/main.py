@@ -1,3 +1,7 @@
+# py -m pip install jupyter
+# py -m pip install pandas
+
+
 import pandas as pd
 
 # Read the CSV 
